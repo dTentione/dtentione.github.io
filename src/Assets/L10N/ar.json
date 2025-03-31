@@ -1,0 +1,198 @@
+{
+  "credits": {
+    "assets": {
+      "external": {
+        "html": "بعض الأيقونات مأخوذة من <a href='https://icons.getbootstrap.com/' class='button'>Bootstrap Icons</a> و <a href='https://fontawesome.com' class='button'>FontAwesome</a>"
+      },
+      "nikstudios": {
+        "li-1": "أنشأ شعار وأصول Project Lodestone"
+      },
+      "title": "الأصول"
+    },
+    "repoContributors": {
+      "button": {
+        "image": {
+          "alt": "مساهمو المستودع"
+        },
+        "title": "مساهمو المستودع"
+      },
+      "title": "مساهمو المستودع"
+    },
+    "title": "الشكر",
+    "translations": {
+      "title": "الترجمات"
+    },
+    "website": {
+      "dexrnzacattack": {
+        "li-1": "إعادة كتابة الموقع باستخدام Svelte",
+        "li-2": "جعل الموقع قابلًا للتعريب",
+        "li-3": "إنشاء السمة",
+        "li-4": "إعادة تصميم أجزاء من الموقع"
+      },
+      "eternalmodz": {
+        "li-1": "صمم الموقع الأولي",
+        "li-2": "صمم التخطيط الأولي للبناء عليه",
+        "li-3": "ساهم في اختبار إمكانية الوصول ودعم قارئ الشاشة"
+      },
+      "title": "الموقع الإلكتروني"
+    }
+  },
+  "footer": {
+    "buttons": {
+      "openCredits": {
+        "text": "الشكر",
+        "title": "عرض قائمة الأشخاص الذين جعلوا هذا الموقع ممكنًا"
+      },
+      "openSource": {
+        "text": "عرض المصدر",
+        "title": "عرض مصدر الموقع"
+      },
+      "openTeam": {
+        "text": "الفريق",
+        "title": "عرض الفريق"
+      }
+    },
+    "notice": "Project Lodestone ليس منتجًا رسميًا من Minecraft."
+  },
+  "home": {
+    "buttons": {
+      "openDiscord": {
+        "ariaLabel": "انضم إلى Discord",
+        "text": "",
+        "title": "انضم إلينا على Discord"
+      },
+      "openDocumentation": {
+        "ariaLabel": "",
+        "text": "تعرف على المزيد",
+        "title": "افتح الوثائق"
+      },
+      "openLodestone": {
+        "ariaLabel": "",
+        "text": "تشغيل Project Lodestone",
+        "title": "تشغيل Project Lodestone (Project Lodestone قيد التطوير ولم يتم إصداره بعد)",
+        "tooltip": "Project Lodestone قيد التطوير ولم يتم إصداره بعد"
+      }
+    },
+    "info": {
+      "description": "أول أداة مفتوحة المصدر، شاملة لجميع إصدارات Minecraft، متوافقة مع جميع المنصات والإصدارات، أنشأها المجتمع للمجتمع.",
+      "header": "حرر، وحوّل، وقم بتعديل عوالم Minecraft.",
+      "name": "Project Lodestone"
+    },
+    "infoBoxes": {
+      "accessible": {
+        "alt": "أيقونة الوصول",
+        "description": "إمكانية الوصول هي محور اهتمام كبير.\nدعم قارئ الشاشة والعرض المناسب على الشاشات من الأمور المهمة لتوفير وصول أوسع إلى Project Lodestone.",
+        "title": "سهل الوصول"
+      },
+      "compatible": {
+        "alt": "أيقونة علامة صح",
+        "description": "سيدعم تقريبًا جميع إصدارات Minecraft.\nعلى سبيل المثال، يمكن تحويل عوالمك من Minecraft Classic 0.30-c لتعمل على Minecraft: Xbox 360 Edition.",
+        "title": "متوافق"
+      },
+      "editEverything": {
+        "alt": "أيقونة الملف",
+        "description": "بدعم NBT*, SNBT*, MCR/MCA*, MCS, ARC*, LOC*, PCK*, VDB/CDB*, FUI*، والمزيد.\n\n*غير متاح في الإصدار الحالي، تحقق من 'تعرف على المزيد' للاطلاع على التقدم.",
+        "title": "تحرير أي نوع من ملفات Minecraft"
+      },
+      "fullControl": {
+        "alt": "أيقونة الكرة الأرضية",
+        "description": "ستتمكن من تحرير شخصيتك، وإعطاء نفسك عناصر (حتى العناصر النادرة)، ووضع عناصر في الصناديق، وتحرير بيانات الكيانات والكتل، والمزيد!\n\nملاحظة: هذه الميزة ليست أولوية أثناء إنشاء بقية الأداة.",
+        "title": "تحكم كامل في عالمك"
+      },
+      "header": "المميزات",
+      "localized": {
+        "alt": "أيقونة الترجمة",
+        "description": "مع دعم الترجمة إلى أي لغة، يمكن استخدام Project Lodestone من قبل الأشخاص في جميع أنحاء العالم.\n\nتريد المساعدة؟ تحقق من CONTRIBUTING.md في مستودع GitHub المناسب لمعرفة كيفية المساهمة.",
+        "title": "معرب"
+      },
+      "worksEverywhere": {
+        "alt": "أيقونة الخريطة",
+        "description": "يعمل كتطبيق ويب، مما يعني أن أي جهاز يحتوي على متصفح حديث واتصال بالإنترنت يمكنه استخدام Project Lodestone. (أو حتى دون اتصال، باستخدام PWA)",
+        "title": "يعمل في كل مكان"
+      }
+    },
+    "supportedEditions": {
+      "3DS": {
+        "alt": "أيقونة D-Pad",
+        "title": "إصدار Nintendo 3DS الجديد"
+      },
+      "BE": {
+        "alt": "أيقونة الهاتف",
+        "title": "إصدار Bedrock/الجوال"
+      },
+      "JE": {
+        "alt": "أيقونة الكمبيوتر",
+        "title": "إصدار Java"
+      },
+      "LCE": {
+        "alt": "أيقونة وحدة التحكم",
+        "title": "إصدار Legacy Console"
+      },
+      "PI": {
+        "alt": "شعار Raspberry Pi",
+        "title": "إصدار Raspberry Pi"
+      },
+      "header": "الإصدارات المدعومة"
+    }
+  },
+  "languageDialog": {
+    "buttons": {
+      "ok": {
+        "text": "موافق"
+      }
+    },
+    "dropDownBox": {
+      "header": "اختر لغة",
+      "title": "اختر لغة"
+    },
+    "title": "اللغات"
+  },
+  "languages": {
+    "ar": "العربية",
+    "browserLanguage": "استخدم لغة المتصفح",
+    "ckb": "الكردية الوسطى",
+    "en-US": "الإنجليزية (الولايات المتحدة)",
+    "fr": "الفرنسية",
+    "ja": "اليابانية",
+    "kmr": "الكردية الشمالية",
+    "ru": "الروسية"
+  },
+  "topbar": {
+    "buttons": {
+      "openDiscord": {
+        "ariaLabel": "انضم إلى Discord",
+        "text": "انضم إلى Discord",
+        "title": "انضم إلى Discord"
+      },
+      "openDocumentation": {
+        "ariaLabel": "افتح وثائق Project Lodestone",
+        "text": "افتح الوثائق",
+        "title": "افتح الوثائق الخاصة بـ Project Lodestone والمعلومات التقنية لـ Minecraft لجميع الإصدارات."
+      },
+      "openGitHub": {
+        "ariaLabel": "عرض GitHub",
+        "text": "عرض GitHub",
+        "title": "انتقل إلى GitHub لـ Project Lodestone"
+      },
+      "openLanguageDialog": {
+        "ariaLabel": "اختر لغة",
+        "text": "اختر لغة",
+        "title": "اختر لغة"
+      },
+      "openLodestone": {
+        "ariaLabel": "",
+        "text": "تشغيل Project Lodestone",
+        "title": "تشغيل Project Lodestone (Project Lodestone قيد التطوير ولم يتم إصداره بعد)"
+      }
+    }
+  },
+  "LodestoneUI": {
+    "Topbar": {
+      "homeButton": {
+        "logo": {
+          "alt": "شعار Project Lodestone (L صغير)"
+        }
+      }
+    }
+  }
+}
